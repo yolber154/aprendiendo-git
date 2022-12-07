@@ -5,4 +5,13 @@
     border-radius: 10px;
     width: 200px;
     height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
 }
+
+body{font-size: 20px;}
+html{height: 100vh;}
